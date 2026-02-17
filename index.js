@@ -18,7 +18,7 @@ const config = {
   host: 'Blasters.aternos.me', // Your Aternos IP
   port: 15754,                 // Your Aternos Port (Check if this changed!)
   username: 'Devansh_Bot',
-  version: '1.21.1',
+  version: '1.19.4',
   auth: 'offline'
 };
 
